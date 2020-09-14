@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<root>
+<showing1>
+  <time>9/14/2020 12:10:00</time>
+  <title>Movie A</title>
+  <image>https://videri.s3.amazonaws.com/dev/library/content/63361.content.jpg</image>
+</showing1>
+<showing2>
+  <time>9/14/2020 13:10:00</time>
+  <title>Movie B</title>
+  <image>https://videri.s3.amazonaws.com/dev/library/content/63362.content.jpg</image>
+</showing2>
+<showing3>
+  <time>9/14/2020 14:10:00</time>
+  <title>Movie C</title>
+  <image>https://videri.s3.amazonaws.com/dev/library/content/63363.content.jpg</image>
+</showing3>
+<showing4>
+  <time>9/14/2020 15:10:00</time>
+  <title>Movie D</title>
+  <image>https://videri.s3.amazonaws.com/dev/library/content/63364.content.jpg</image>
+</showing4>
+<showing5>
+  <time>9/14/2020 16:10:00</time>
+  <title>Movie E</title>
+  <image>https://videri.s3.amazonaws.com/dev/library/content/63365.content.jpg</image>
+</showing5>
+<showing6>
+  <time>9/14/2020 17:10:00</time>
+  <title>Movie F</title>
+  <image>https://videri.s3.amazonaws.com/dev/library/content/63369.content.jpg</image>
+</showing6>
+
+</root>
