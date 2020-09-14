@@ -1,33 +1,33 @@
 <?xml version="1.0"?>
 <root>
 <showing1>
-  <time></time>
-  <title></title>
-  <image></image>
+  <time>9/14/2020 12:10:00</time>
+  <title>Movie A</title>
+  <image>https://videri.s3.amazonaws.com/dev/library/content/63361.content.jpg</image>
 </showing1>
 <showing2>
   <time></time>
-  <title></title>
+  <title>Movie B</title>
   <image></image>
 </showing2>
 <showing3>
   <time></time>
-  <title></title>
+  <title>Movie C</title>
   <image></image>
 </showing3>
 <showing4>
   <time></time>
-  <title></title>
+  <title>Movie D</title>
   <image></image>
 </showing4>
 <showing5>
   <time></time>
-  <title></title>
+  <title>Movie E</title>
   <image></image>
 </showing5>
 <showing6>
   <time></time>
-  <title></title>
+  <title>Movie F</title>
   <image></image>
 </showing6>
 
